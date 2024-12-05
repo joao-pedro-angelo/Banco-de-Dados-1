@@ -5,4 +5,4 @@
 ---
 ## Roteiros
 
-1. [Roteiro 01](/roteiros/roteiro1/versao_final.sql)
+1. [Roteiro 01](roteiros/roteiro1/versao_final.sql)
